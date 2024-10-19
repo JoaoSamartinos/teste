@@ -1,0 +1,7 @@
+Para identificar qual interruptor controla cada lâmpada em 2 idas:
+
+1. Ligue um interruptor por alguns minutos, desligue-o e ligue outro.
+2. Verifique as lâmpadas:
+    - Acesa: segundo interruptor.
+    - Apagada, mas quente: primeiro interruptor.
+    - Apagada e fria: terceiro interruptor.

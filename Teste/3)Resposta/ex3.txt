@@ -1,0 +1,28 @@
+3- Observe o trecho de código abaixo: int INDICE = 12, SOMA = 0, 
+
+K = 1; enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } imprimir(SOMA);
+
+Ao final do processamento, qual será o valor da variável SOMA?
+
+
+R:
+Se fosse a nivel de codigo seria 
+
+while (k<indice)
+{
+    k=k+1
+    SOMA=SOMA+K
+}
+
+1) k=1 , soma=soma+K =2
+2) k=3 , soma=sooma+k=5 
+3) k=4 ,soma=sooma+k=9 
+4) k=5,soma=sooma+k=14
+5) k=6,soma=sooma+k=20
+6) k=7 ,soma=sooma+k=27 
+7) k=8 ,soma=sooma+k=35 
+8) k=9 ,soma=sooma+k=44
+9) k=10 ,soma=sooma+k=54 
+10) k=11 ,soma=sooma+k=65 
+
+ Logo nosso k=65
